@@ -38,7 +38,7 @@ hat uses SQL)
   - Google Chrome Browser was used to run the project (localhost/myhmsp was used as the url).
   
 ## GETTING INTO THE PROJECT:
-Hospital Management System in php and mysql. This system has a ‘Home’ page from where the patient can login using patient login and staff using staff login buttons available on the home page. Given below image 1.1 is the image of the home page of the website
+Hospital Management System is a website to digitalize the hospital management using python django. This system has a ‘Home’ page from where the patient can login using patient login and staff using staff login buttons available on the home page. Given below image 1.1 is the image of the home page of the website
 
 ![image](https://github.com/Sreekara-Madyastha/Hospital-Management-system/blob/master/photos/glimpse%20of%20home%20page.png)
 
